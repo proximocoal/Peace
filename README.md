@@ -18,6 +18,6 @@ If the players complete all rounds then the player with the highest number of re
 Players may not exchange resources, but they may make non-binding promises about future voting.
 
 # The Code
-I am really just starting my journey into coding, having completed a couple of online courses and I am currently engaged in a Python bootcamp. 
+I am really just starting my journey into coding, having completed a couple of online courses and engaged in a Python bootcamp. 
 By writing the game digitally I hope to put into practice as many of the things I have learnt as possible. This will likely mean that some of what I write will become obsolete as I learn to be more efficient and practical. This, in turn, means I am probably not using Github in the correct manner, committing changes to the internet that I know are incomplete or obsolete, but doing so I think will provide useful experience using the system.
 I expect that I will not be able to write something that fully functions, at least to begin with and perhaps ever. It is the practice that is the important part of this project.   
