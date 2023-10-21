@@ -1,0 +1,5 @@
+Peace V3 info
+
+In order to try and better understand what methods I need for each of my classes I have decided to start at the interface level. I have been advised that I would be better off creating a front end in JavaScript or making an API to call, but for now this is about learning Python so I am creating something to interact with the user through command line. 
+
+To this end I have made CPlayerInterface.py and its unittests TestCPlayerInterface.py. CPlayerInterface.py asks input from a user if it wants a new game, how many ai or human players and initialises player objects to fill those requirements. In order to accomodate accepting ai players the Player class was updated to have a is_human instance variable. 
