@@ -1,0 +1,7 @@
+Peace V2
+
+I have tried to refactor my methods into smaller classes. I have also added unit tests for almost all of these classes. I have added a FileBuilder which will be used to make the files to extract card information from.
+
+I have stopped part way through making the unit tests because it has become clear to me that I need to refactor the classes and methods again because they are too inter-dependent. This will nullify any work needed to complete the unit tests. 
+
+The FileBuilder currently leaves a file unclosed if actually run. I assume it will then call another method to write the file in the relevant format and I did not know how this would interact with the file builder. 
